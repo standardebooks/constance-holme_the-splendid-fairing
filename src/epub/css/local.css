@@ -1,6 +1,11 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+[epub|type~="dedication"] p + p{
+	margin-top: 1em;
+	text-indent: 0;
+}
+
 /* Centered dedications */
 section[epub|type~="dedication"]{
 	text-align: center;
