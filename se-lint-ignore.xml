@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="part-4.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>Title refers to the characters Geordie and Jim, who are referred to as “Geordie-an’-Jim” and thus is titlecased correctly.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
