@@ -31,36 +31,39 @@
 		<dc:subject id="subject-1">Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85048050</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta id="collection" property="belongs-to-collection">Prix Femina—Vie Heureuse Winners</meta>
+		<meta property="collection-type" refines="#collection">series</meta>
+		<meta property="group-position" refines="#collection">2</meta>
+		<dc:description id="description">An elderly couple try to deal with an unfavorable financial situation, deteriorating health and the absence of their son while living in a tight-knit community that doesn’t hold them in high esteem.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In &lt;i&gt;The Splendid Fairing&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/constance-holme"&gt;Constance Holme&lt;/a&gt; presents a character study of elderly life during the early 20th century, reflecting on the physical and emotional problems that arise with aging, the sense of loneliness and sadness caused by living away from your loved ones, the negative influence of family rivalries, and how youthful romance can lead to life-long companions, but may also give origin to grudges, resentment and envy from those around them.&lt;/p&gt;
+			&lt;p&gt;Set in the rural english community of Blindbeck, Simon and Sarah Thornthwaite picture what the future holds for them after facing their most recent bout of misfortune, the need to leave behind the farm that allowed them a somewhat comfortable way of life, Sarah’s gradual loss of her sight and troubled finances that seem impossible to manage in their current situation.&lt;/p&gt;
+			&lt;p&gt;The couple’s reluctant journey to the nearby town of Witham and the rumors that start to spread around upon their arrival allow the reader to take a glimpse into the Thornthwaites’ shared history with Blindbeck’s inhabitants as well as their poor relationship with Simon’s more affluent brother Will and his wife Eliza, each having their own moments of introspection that contrast their present existence with nostalgic memories of their younger selves.&lt;/p&gt;
+			&lt;p&gt;As the story develops, Simon, Sarah and Eliza think about Geordie and Jim, the near-identical sons of both marriages who left Blindbeck twenty years ago. Geordie’s upcoming return home only deepens the mystery regarding the fate of the Thornthwaite cousins and whether or not they accomplished their goals of finding fortune and a better future in a foreign country.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/40545</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/splendidfairing00holmuoft</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/constance-holme_the-splendid-fairing</meta>
 		<dc:creator id="author">Constance Holme</dc:creator>
 		<meta property="file-as" refines="#author">Holme, Constance</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Constance Holme Punchard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Constance_Holme</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n81043534</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Jean-Charles Cazin</dc:contributor>
+		<meta property="file-as" refines="#artist">Cazin, Jean-Charles</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Jean-Charles_Cazin</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr90012226</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Sergio Tellez</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Tellez, Sergio</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
