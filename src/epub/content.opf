@@ -46,7 +46,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/40545</dc:source>
 		<dc:source>https://archive.org/details/splendidfairing00holmuoft</dc:source>
-		<meta property="se:word-count">70430</meta>
+		<meta property="se:word-count">68266</meta>
 		<meta property="se:reading-ease.flesch">79.4</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/constance-holme_the-splendid-fairing</meta>
 		<dc:creator id="author">Constance Holme</dc:creator>
